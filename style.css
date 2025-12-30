@@ -115,6 +115,10 @@ li:hover{
     color: white;
 }
 
+.button:hover{
+    cursor: pointer;
+}
+
 .content{
     margin-right: 2rem;
     grid-column: 1 / 9;
